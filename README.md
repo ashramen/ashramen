@@ -23,6 +23,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-00ffff.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 📊 My Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ashramen&show_icons=true&hide_title=true&hide_border=true&icon_color=ff9b23" alt="ashramen" />
