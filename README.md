@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a discord bot: [Howling Abyss](https://github.com/ashramen/Howling-Abyss).
 - 🌱 I’m currently learning: <img src="http://img.shields.io/badge/Vue.js-41B883?style=flat&logo=vuedotjs&logoColor=white">
 - 📚 I want to learn: <img src="http://img.shields.io/badge/Flutter-0000FF?style=flat&logo=flutter&logoColor=white"> and <img src="http://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white">
-- 🎾 Hobbies: Playing tennis, trading crypto, watching LoL Esports 
-- 🤔  I’m looking to collaborate on: Developing new and intriguing open-source Discord.js projects
+- 🎾 Hobbies: **Playing tennis, trading crypto, watching LoL Esports**
+- 🤔  I’m looking to collaborate on: **Developing new and intriguing open-source Discord.js projects**
 - 📫 Let's connect and chat! Reach me at: ar537@duke.edu
 
 
