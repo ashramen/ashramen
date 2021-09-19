@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: <img src="http://img.shields.io/badge/React-0000FF?style=flat&logo=react&logoColor=white">
 - 📚 I want to learn: <img src="http://img.shields.io/badge/Flutter-0000FF?style=flat&logo=flutter&logoColor=white">
 - 🎾 Hobbies: **Playing tennis, trading crypto, watching LoL Esports**
-- 🤔  I’m looking to collaborate on: **Developing new and intriguing open-source Discord.js projects**
+- 🤔  I’m looking to collaborate on: **New and intriguing open-source Discord.js projects**
 - 📫 Let's connect! Reach me at: ar537@duke.edu
 
 
